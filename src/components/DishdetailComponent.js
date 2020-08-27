@@ -69,5 +69,5 @@ import { Card, CardImg, CardBody, CardText, CardTitle } from 'reactstrap';
     }
 
 
-export default DishDetail
+export default DishDetail;
 
